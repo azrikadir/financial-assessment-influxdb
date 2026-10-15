@@ -1,0 +1,20 @@
+
+# Database storage, datasets, and credentials
+.influxdb/
+data/
+.env
+.env.*
+.venv/
+__pycache__/
+
+# Generated Python files
+*.py[cod]
+
+# Dataset exports
+*.parquet
+
+# Separate submission archive
+/scenario_d_evidence_*.zip
+
+# Allow a credentials template containing placeholders only
+!.env.example

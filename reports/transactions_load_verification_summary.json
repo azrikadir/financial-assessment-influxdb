@@ -1,0 +1,15 @@
+{
+  "verification_basis": "Daily read-back comparisons during loading",
+  "start_date": "2010-01-01",
+  "stop_date_exclusive": "2019-11-01",
+  "verified_days": 3591,
+  "source_rows": 13305915,
+  "stored_rows_at_daily_verification": 13305915,
+  "source_net_cents": 57183552228,
+  "stored_net_cents_at_daily_verification": 57183552228,
+  "field_comparisons": 292730130,
+  "status": "PASS",
+  "full_load_post_restart_reconciliation": "PASS",
+  "post_restart_verification_scope": "Monthly transaction counts, net/positive/negative amounts, negative counts, and zero counts",
+  "post_restart_evidence": "transactions_post_restart_summary.json"
+}

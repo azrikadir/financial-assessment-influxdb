@@ -1,0 +1,3 @@
+dataset,source_rows,stored_rows,field_comparisons,mode,status
+users,2000,2000,28000,write,PASS
+cards,6146,6146,79898,write,PASS

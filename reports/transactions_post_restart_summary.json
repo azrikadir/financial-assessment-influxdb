@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "verification_scope": "Post-restart monthly counts and monetary statistics",
+  "months_verified": 118,
+  "rows": 13305915,
+  "net_cents": 57183552228,
+  "positive_cents": 63935456462,
+  "negative_cents": -6751904234,
+  "negative_count": 660049,
+  "zero_count": 10639
+}
